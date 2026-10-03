@@ -1,0 +1,5 @@
+Repository name: esp8266-turbo-road
+Description: Wi-Fi controlled mini racing game for NodeMCU ESP8266 and 1.3-inch SH1106 OLED.
+Topics: esp8266, nodemcu, arduino, oled, sh1106, embedded, wifi, web-controller, racing-game, diy-electronics
+License: MIT
+Default branch: main
